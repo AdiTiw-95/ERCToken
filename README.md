@@ -1,4 +1,4 @@
-## RequireRevertAssert
+## ERC20 Token
 
 This Solidity program is a simple "ERC Token Creation" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to understand the creation,working and functionality of the ERC Token.
 
